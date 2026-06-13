@@ -1,6 +1,6 @@
 # Nome do Grupo:
 
-- Thais
+- Thais barbosa
 - Thalyson
 - Bruna
 - Keilon
